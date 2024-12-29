@@ -1,4 +1,4 @@
-import like
+import hate, like
 
 def main():
-	return like.like()
+	return hate.hate()+like.like()
